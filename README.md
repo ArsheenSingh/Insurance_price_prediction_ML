@@ -4,8 +4,6 @@ This project is an interactive web application that predicts insurance premium c
 
 <img width="1916" height="1023" alt="image" src="https://github.com/user-attachments/assets/8d7be0de-7fa6-42c0-9302-411a6785f036" />
 
-*Note: Replace the link above with the URL to your own screenshot.*
-
 ## 🚀 Live Demo
 
 You can access the live, deployed version of this application on AWS EC2:
